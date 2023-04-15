@@ -1,0 +1,15 @@
+/Users/emilyjarecki/SEI/C#/Inventory/Inventory/obj/Debug/net7.0/Inventory.csproj.AssemblyReference.cache
+/Users/emilyjarecki/SEI/C#/Inventory/Inventory/obj/Debug/net7.0/Inventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emilyjarecki/SEI/C#/Inventory/Inventory/obj/Debug/net7.0/Inventory.AssemblyInfoInputs.cache
+/Users/emilyjarecki/SEI/C#/Inventory/Inventory/obj/Debug/net7.0/Inventory.AssemblyInfo.cs
+/Users/emilyjarecki/SEI/C#/Inventory/Inventory/obj/Debug/net7.0/Inventory.csproj.CoreCompileInputs.cache
+/Users/emilyjarecki/SEI/C#/Inventory/Inventory/bin/Debug/net7.0/Inventory
+/Users/emilyjarecki/SEI/C#/Inventory/Inventory/bin/Debug/net7.0/Inventory.deps.json
+/Users/emilyjarecki/SEI/C#/Inventory/Inventory/bin/Debug/net7.0/Inventory.runtimeconfig.json
+/Users/emilyjarecki/SEI/C#/Inventory/Inventory/bin/Debug/net7.0/Inventory.dll
+/Users/emilyjarecki/SEI/C#/Inventory/Inventory/bin/Debug/net7.0/Inventory.pdb
+/Users/emilyjarecki/SEI/C#/Inventory/Inventory/obj/Debug/net7.0/Inventory.dll
+/Users/emilyjarecki/SEI/C#/Inventory/Inventory/obj/Debug/net7.0/refint/Inventory.dll
+/Users/emilyjarecki/SEI/C#/Inventory/Inventory/obj/Debug/net7.0/Inventory.pdb
+/Users/emilyjarecki/SEI/C#/Inventory/Inventory/obj/Debug/net7.0/Inventory.genruntimeconfig.cache
+/Users/emilyjarecki/SEI/C#/Inventory/Inventory/obj/Debug/net7.0/ref/Inventory.dll
