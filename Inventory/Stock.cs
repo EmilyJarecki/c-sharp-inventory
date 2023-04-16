@@ -15,6 +15,9 @@ namespace Inventory
 
         public Stock(string id, string name, decimal price, int qty, DateTime entryDate)
         {
+            //details being contained for each stock item
+            //this initializes each item
+            //"this" retresents current object of stock
             this.itemId = id;
             this.itemName = name;
             this.unitPrice = price;

@@ -10,7 +10,7 @@ namespace Inventory
     public class UserLogon
     {
         static string dirPath = "/Users/emilyjarecki/SEI/C#/Inventory/";
-        static string filePath = dirPath + "users.dat";
+        static string filePath = dirPath + "users.txt";
         static List<User> userList = new List<User>();
         public bool CheckUserAvailability(string userId)
         {
