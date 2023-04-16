@@ -1,13 +1,12 @@
 ﻿<Properties StartupConfiguration="{44E3C854-2138-4F1C-AE8F-A5BEF0AB16DD}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Inventory/UserLogon.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inventory/Inventory.cs">
     <Files>
       <File FileName="Inventory/Program.cs" />
-      <File FileName="Inventory/Inventory.cs" />
+      <File FileName="Inventory/Inventory.cs" Line="232" Column="10" />
       <File FileName="Inventory/Purchase.cs" />
       <File FileName="Inventory/Sales.cs" />
       <File FileName="Inventory/User.cs" />
-      <File FileName="Inventory/UserLogon.cs" Line="20" Column="36" />
+      <File FileName="Inventory/UserLogon.cs" />
       <File FileName="Inventory/Stock.cs" />
     </Files>
     <Pads>
@@ -15,7 +14,7 @@
         <State name="__root__">
           <Node name="Inventory" expanded="True">
             <Node name="Inventory" expanded="True">
-              <Node name="UserLogon.cs" selected="True" />
+              <Node name="Inventory.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -25,10 +24,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Inventory PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Inventory PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
