@@ -13,7 +13,10 @@ Menu Choices
 7. Exit
 ```
 ## Result
-Example image shown is of user logged in viewing a Stock Report. It shows the Item Id, Item Name, Unit Price, Quantity in Stock, and Stock Entry Date. I generated this formatted stock data report by using the String.Format method:
+<h3 align='center'>📽<a href="https://lnkd.in/gbTxEmmv">Video Walkthrough</a></br></h3>
+Example image shown is of user logged in viewing a Stock Report. It shows the Item Id, Item Name, Unit Price, Quantity in Stock, and Stock Entry Date. 
+
+</br>I generated this formatted stock data report by using the String.Format method:
 
 
 
